@@ -1,4 +1,5 @@
 # Introduction
+# Aritmatika pada python
 print(2 + 3)   # addition(+)                    |penjumlahan|
 print(3 - 1)   # subtraction(-)                 |pengurangan|
 print(2 * 3)   # multiplication(*)              |perkalian|
@@ -17,6 +18,7 @@ f=({'name':'stimik'})   # Dictionary
 g=({9.8,3.14,2.7})      # Set
 h=((9.8,3.14,2.7))      # Tuple
 
+# Cek type data
 print(type(a))
 print(type(b))
 print(type(c))
