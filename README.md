@@ -1,10 +1,10 @@
-# python
+# Python
 Python Repository Komunitas Koding STIMIK Tunas Bangsa
 Disini kamu akan belajar atau melihat kode yang sudah dibuat, terdapat "comment" atau petunjuk dalam setiap kode yang telah ditulis.
 Repo akan di update secara berkala.
 
 
-# Python
+
 <p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
